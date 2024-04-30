@@ -1,1 +1,1 @@
-# Plant_disease_Indentification
+# Plant Disease Detection
